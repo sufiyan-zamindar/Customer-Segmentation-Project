@@ -23,12 +23,8 @@ The project uses a dataset with the following sample features:
 - `CustomerID`
 - `Gender`
 - `Age`
-- `Income`
-- `Location`
-- `TotalSpend`
-- `Frequency` (Number of purchases)
-- `Recency` (Days since last purchase)
-- `ProductCategories`
+- `Annual Income (k$)`
+- `Spend-score (1-100)`
 
 *Note:* The dataset can be replaced with your own customer transactional and demographic data.
 
